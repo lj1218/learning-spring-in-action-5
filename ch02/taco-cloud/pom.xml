@@ -5,8 +5,8 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<!--<version>2.0.4.RELEASE</version>-->
-		<!--<version>2.1.9.RELEASE</version> # dependency error for org.seleniumhq.selenium -->
+		<!--<version>2.0.4.RELEASE</version> -->  <!-- # used in book Spring in Action 5th Edition -->
+		<!--<version>2.1.9.RELEASE</version> -->  <!-- # dependency error for org.seleniumhq.selenium -->
 		<version>2.2.0.RELEASE</version>  <!-- latest version at present Oct, 2019 -->
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
